@@ -3,7 +3,7 @@
 
 Bem-vindos!
 
-Sou uma profissional da área de dados com foco no desenvolvimento de soluções de ponta a ponta para problemas de negócios através da coleta, processamento de dados e implementação de modelos de machine learning para melhorar os resultados do negócio.
+Sou uma profissional da área de dados com foco no desenvolvimento de soluções para melhorar os resultados do negócio.
 
 <h2 align="left">🗨 Sobre mim:</h2>
  - 👨‍🎓 Sou formado em Engenharia de Produção.
@@ -20,7 +20,7 @@ Sou uma profissional da área de dados com foco no desenvolvimento de soluções
     
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+
     </p> 
 
 <!--
@@ -36,4 +36,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
 -->
